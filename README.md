@@ -1,5 +1,5 @@
 # r-webapp
-This is a webapp built using R and R shiny. This app provide you with easy to use web-application to perform analyses in R without writing script. At this moment the statistical analyses use to demo the app is RLQ stattical analyses [more details](https://www.researchgate.net/figure/Conceptual-overview-of-the-RLQ-analysis-RLQ-is-a-co-inertia-analysis-that-couples_fig3_283017300)
+This is a webapp built using R and R shiny. This app provide you with easy to use web-application to perform analyses in R without writing script. At this moment the statistical analyses use to demo the app is RLQ stattical analyses [more details](https://www.researchgate.net/figure/Conceptual-overview-of-the-RLQ-analysis-RLQ-is-a-co-inertia-analysis-that-couples_fig3_283017300).
 This App is still in development and if you have any issue please contact me at wicaksono.yuga@gmail.com
 
 ## How to use this application

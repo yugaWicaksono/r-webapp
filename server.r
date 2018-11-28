@@ -18,6 +18,7 @@ shinyServer(function(input, output, session) {
         rMat<-read.csv(inFileR$datapath, header=input$header, sep=input$sep,
                      quote = input$quote,row.names = 1,
                      stringsAsFactors = TRUE)
+                     #check if the table is inserted
       rMat
       })
 

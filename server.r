@@ -214,10 +214,9 @@ qPreTest<-qPreTest()
         
     output$summary<-renderPrint({
         
-      
         summary(RLQ_model())
         
-        })
-  
+    })
+})
 
 

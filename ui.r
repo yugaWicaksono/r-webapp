@@ -120,7 +120,12 @@ fluidPage(
                                     tags$style(HTML("#run{background-color:blue;
                                                     color:white;
                                                     font-weight:bold;
-                                                    }")))
+                                                    }"))),
+                        textOutput("textCompleted"),
+                        tags$head(tags$style("#textCompleted{color: green;
+                                            font-size: 25px;
+                                            margin-top: 10px;
+                                            }"))
                         ),
               mainPanel(
                        tabsetPanel(id="upload",
